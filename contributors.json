@@ -1,0 +1,50 @@
+{
+  "mcollina": {
+    "name": "Matteo Collina",
+    "email": "hello@matteocollina.com",
+    "npm": "matteo.collina",
+    "twitter": "matteocollina",
+    "homepage": "http://www.matteocollina.com",
+    "modules": [
+      "pino",
+      "pino-http",
+      "hapi-pino",
+      "express-pino-logger",
+      "pino-tee",
+      "pino-elasticsearch"
+    ]
+  },
+  "davidmarkclements": {
+    "name": "David Mark Clements",
+    "npm": "davidmarkclements",
+    "twitter": "davidmarkclem",
+    "modules": [
+      "pino",
+      "pino-http",
+      "restify-pino-logger",
+      "rill-pino-logger",
+      "koa-pino-logger",
+      "pino-debug",
+      "pino-noir"
+    ]
+  },
+  "jsumners": {
+    "github": "jsumners",
+    "npm": "jsumners",
+    "email": "james.sumners@gmail.com",
+    "modules": [
+      "pino",
+      "pino-multi-stream",
+      "pino-arborsculpture",
+      "pino-socket",
+      "pino-syslog"
+    ]
+  },
+  "marcbachmann": {
+    "github": "marcbachmann",
+    "npm": "marcbachmann",
+    "modules": [
+      "pino-http"
+    ]
+  }
+}
