@@ -1,0 +1,24 @@
+{
+  "name": "pino-community",
+  "version": "1.0.0",
+  "description": "A module about the pino community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinojs/community.git"
+  },
+  "keywords": [
+    "pino",
+    "logger",
+    "community"
+  ],
+  "author": "Matteo Collina <hello@matteocollina.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pinojs/community/issues"
+  },
+  "homepage": "https://github.com/pinojs/community#readme"
+}
