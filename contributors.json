@@ -46,5 +46,13 @@
     "modules": [
       "pino-http"
     ]
+  },
+  "watson": {
+    "name": "Thomas Watson Steen",
+    "npm": "watson",
+    "twitter": "wa7son",
+    "modules": [
+      "pino"
+    ]
   }
 }
